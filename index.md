@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# 项目开发规范
 
-You can use the [editor on GitHub](https://github.com/shuaishuai88542/projectSummary.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+## 1.文件命名规则要标准
+  ### 例如：文件处理正则命名为pattern
+  
+## 2.代码中尽量用es6
+``` 
+    function name（) {
+    }
+    const name = () =>{
+    }
 ```
+## 3.组件命名规范 命名合理
+  
+## 4.组件名大写
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## 5.函数与变量驼峰命名
 
-### Jekyll Themes
+## 6.return 返回提示
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shuaishuai88542/projectSummary.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## 7.方法应该具备单一性 ，一个方法干一件事情
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
